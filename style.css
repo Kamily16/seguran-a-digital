@@ -3,15 +3,14 @@
 
 /* Define variáveis de cor com estética futurista */
 :root {
-    --branco: #F0F8FF; /* Branco azulado mais brilhante, para um efeito futurista */
-    --cor-de-fundo: #0A0F1E; /* Azul escuro profundo, quase preto, remetendo ao espaço sideral */
-    --fundo-senha: #1E2952; /* Azul metálico intenso, com um toque de profundidade */
-    --fundo-texto: #2846A6; /* Azul elétrico vibrante, simulando displays digitais */
-    --borda: #FF00FF; /* Magenta neon, dando um efeito chamativo e ultra-tecnológico */
+    --branco: #FFFFFF;               /* Letras mais legíveis */
+    --cor-de-fundo: #F0F4F8;         /* Fundo mais claro e moderno */
+    --fundo-senha: #DCE4EC;          /* Tom suave e limpo para caixas */
+    --fundo-texto: #C9D9E7;          /* Azul clarinho, discreto */
+    --borda: #4A90E2;                /* Azul profissional e equilibrado */
     --roboto: 'Roboto', sans-serif;
-    --roboto-mono: 'Roboto Mono', monospace;
+    --roboto-mono: 'Roboto Mono', monospace;
 }
-
 
 
 
