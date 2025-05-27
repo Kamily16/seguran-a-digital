@@ -3,15 +3,14 @@
 
 /* Define variáveis de cor com estética futurista */
 :root {
-  --branco: #FFFBF2;
-  --cor-de-fundo: #202040;
-  --fundo-senha: #FF6392;
-  --fundo-texto: #FFA987;
-  --borda: #08D9D6;
+  --branco: #FFFFFF;
+  --cor-de-fundo: #F5F7FA;        /* Cinza clarinho com fundo quase branco */
+  --fundo-senha: #E2E8F0;         /* Azul acinzentado leve */
+  --fundo-texto: #CBD5E1;         /* Tom intermediário para contraste suave */
+  --borda: #3B82F6;               /* Azul vibrante, chamativo mas elegante */
   --roboto: 'Roboto', sans-serif;
   --roboto-mono: 'Roboto Mono', monospace;
 }
-
 
 
 
