@@ -21,9 +21,10 @@
 
 /* Estiliza o corpo da página */
 body {
-    color: var(--branco); /* Cor do texto */
-    background-color: var(--cor-de-fundo); /* Cor de fundo */
-    font-family: var(--roboto); /* Fonte padrão do corpo */
+    color: var(--branco); /* Altere para: */
+    color: #1F2937;        /* Letras mais escuras e visíveis */
+    background-color: var(--cor-de-fundo);
+    font-family: var(--roboto);
 }
 
 /* Estiliza o título principal */
