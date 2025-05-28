@@ -27,11 +27,12 @@ body {
     font-family: var(--roboto);
 }
 
+
 /* Estiliza o título principal */
 .titulo-principal {
     font-family: var(--roboto-mono); /* Usa fonte monoespaçada */
-<<<<<<< HEAD
     font-size: 32px;
+}
 
 /* Estiliza o subtítulo */
 .titulo-secundario {
