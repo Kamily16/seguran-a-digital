@@ -30,8 +30,8 @@ body {
 /* Estiliza o título principal */
 .titulo-principal {
     font-family: var(--roboto-mono); /* Usa fonte monoespaçada */
-    font-size: 3px;
-}
+<<<<<<< HEAD
+    font-size: 32px;
 
 /* Estiliza o subtítulo */
 .titulo-secundario {
