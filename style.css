@@ -178,7 +178,10 @@ label {
     display: flex;
     justify-content: space-between;
 }
-
+img {
+    width: 50px; /* Altera para o tamanho */
+    height: auto; /* Mantém proporção */
+}
 /* Media query: se a tela for maior que 768px, os parâmetros ficam lado a lado */
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha {
