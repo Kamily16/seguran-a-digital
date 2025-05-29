@@ -179,7 +179,7 @@ label {
     justify-content: space-between;
 }
 img {
-    width: 101px; /* Altera para o tamanho */
+    width: 190px; /* Altera para o tamanho */
     height: auto; /* Mantém proporção */
 }
 /* Media query: se a tela for maior que 768px, os parâmetros ficam lado a lado */
